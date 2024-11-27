@@ -1,0 +1,8 @@
+{
+  "name": "Tulip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HOUSSEINOMARSALLOUM/Tulip.git",
+  "author": "HOUSSEINOMARSALLOUM <housseinsalloum0@gmail.com>",
+  "license": "MIT"
+}
